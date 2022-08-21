@@ -1,0 +1,9 @@
+{
+  "name": "bttpdz--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@polymer/polymer": "^3.5.1",
+    "@webcomponents/webcomponentsjs": "^2.6.0"
+  }
+}
