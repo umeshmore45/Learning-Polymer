@@ -12,6 +12,7 @@ class CustomElement extends PolymerElement {
 customElements.define('custom-element', CustomElement);
 
 /*
+https://yib68d.stackblitz.io
   If you’re familiar with your browser’s developer tools, try printing the
   custom element’s `tagName` property to the console.
   Hint: add `console.log(this.tagName);` to the constructor method!
